@@ -1,0 +1,19 @@
+.sekcja {
+    background-color: #ffffff;
+    padding: 80px;
+    border-radius: 5px;
+    text-align: center;
+}
+.title {
+    color: #1900ff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.tekst {
+    color: #333333;
+    font-size: 20px;
+    line-height: 1.6;
+}
+.color-text {
+    color: #ff0000;
+}
